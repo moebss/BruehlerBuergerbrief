@@ -1,0 +1,17 @@
+{
+    "name": "bruehler-buergerbrief",
+    "version": "1.0.0",
+    "description": "Digitale Bürgerinformation für die Stadt Brühl",
+    "main": "index.html",
+    "scripts": {
+        "start": "serve ."
+    },
+    "keywords": [
+        "brühl",
+        "bürgerbrief",
+        "stadt-brühl",
+        "information"
+    ],
+    "author": "Jan Freynick",
+    "license": "MIT"
+}
